@@ -8,7 +8,6 @@
     tools:context="com.example.aniket.codeforces.MainActivity">
 
     <ImageView
-
         android:id="@+id/cfsymbol"
         android:layout_width="match_parent"
         android:layout_height="37dp"
